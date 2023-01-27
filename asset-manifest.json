@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/insta/static/css/main.f68acc20.css",
+    "main.js": "/insta/static/js/main.678368f3.js",
+    "static/js/787.6b75a188.chunk.js": "/insta/static/js/787.6b75a188.chunk.js",
+    "static/media/ig.webp": "/insta/static/media/ig.c6d5b33406871228571d.webp",
+    "index.html": "/insta/index.html",
+    "main.f68acc20.css.map": "/insta/static/css/main.f68acc20.css.map",
+    "main.678368f3.js.map": "/insta/static/js/main.678368f3.js.map",
+    "787.6b75a188.chunk.js.map": "/insta/static/js/787.6b75a188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68acc20.css",
+    "static/js/main.678368f3.js"
+  ]
+}
